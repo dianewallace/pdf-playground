@@ -1,0 +1,14 @@
+{
+    "name": "pdf-playground/pdf-test",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Diane wallace",
+            "email": "hello@dianewallace.co.uk"
+        }
+    ],
+	"require": {
+		"setasign/fpdi": "dev-master as 2.1",
+		"setasign/fpdi-tfpdf": "^2.1"
+	}
+}
