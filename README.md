@@ -1,14 +1,16 @@
-#PDF Playground
+# PDF Playground
 
 Playing around with PDF Generators.
 
 Testing FPDF and FPDI to generate a PDF from WordPress.
 
-##Installing
+## Installing
+
+Download or clone repo in to your /wp-content/plugins folder.
 
 Run `composer install`
 
-##Using
+## Using
 
 Create a post or a page with the slug 'pdf-playground' and when you view, you will (hopefully) see your rendered PDF!
 
